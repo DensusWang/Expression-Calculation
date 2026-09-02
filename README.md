@@ -21,5 +21,23 @@
 求和 : `i`表示迭代变量 `step`表示步长 `expr`表示表达式 `i`在`[begin, end]`区间迭代 并输出表达式之和 `out`可选可不选 表示输出到哪个变量<br>
 15.`rename <old_name> <new_name>` 重命名变量<br>
 ## 效果
-变量的创建与设定与删除
-![demo](./assets/algebra.png)
+<br>表达式计算
+<p align="left">
+  <img src="./assets/expr.png" alt="expr.png" width="600"/>
+</p>
+变量的创建与设定与删除<br>
+<p align="left">
+  <img src="./assets/algebra.png" alt="algebra.png" width="600"/>
+</p>
+<br>函数的使用
+<p align="left">
+  <img src="./assets/function.png" alt="function.png" width="600"/>
+</p>
+<br>循环
+<p align="left">
+  <img src="./assets/for.png" alt="for.png" width="600"/>
+</p>
+<br>求和
+<p align="left">
+  <img src="./assets/sum.png" alt="sum.png" width="600"/>
+</p>
