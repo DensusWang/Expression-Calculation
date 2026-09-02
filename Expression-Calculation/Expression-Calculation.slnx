@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Expression-Calculation/Expression-Calculation.vcxproj" Id="8691e420-ff63-498d-ad07-b6a505cbc0fa" />
-</Solution>
