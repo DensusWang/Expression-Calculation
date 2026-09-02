@@ -20,3 +20,6 @@
 14.`sum <i> <begin> <end> <step> <expr> [out]`<br>
 求和 : `i`表示迭代变量 `step`表示步长 `expr`表示表达式 `i`在`[begin, end]`区间迭代 并输出表达式之和 `out`可选可不选 表示输出到哪个变量<br>
 15.`rename <old_name> <new_name>` 重命名变量<br>
+## 效果
+变量的创建与设定与删除
+![demo](./assets/algebra.png)
