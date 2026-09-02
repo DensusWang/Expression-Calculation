@@ -6,7 +6,7 @@
 1.`help` 帮助<br>
 2.直接输入表达式 将返回计算结果<br>
 3.`x=1+2+3` 设置或者创建一个变量x<br>
-4.x将返回x的值<br>
+4.`x` 将返回`x`的值<br>
 5.`f(x)`将返回函数值<br>
 6.`f(x)=x^2+2x+1` 将设置一个函数<br>
 7.`f()` 返回函数f的定义(参数和表达式)<br>
@@ -23,9 +23,9 @@
 ## 效果
 <br>表达式计算
 <p align="left">
-  <img src="./assets/expr.png" alt="expr.png" width="600"/>
+  <img src="./assets/expr.png" alt="expr.png" width="500"/>
 </p>
-变量的创建与设定与删除<br>
+变量的操作<br>
 <p align="left">
   <img src="./assets/algebra.png" alt="algebra.png" width="600"/>
 </p>
@@ -35,9 +35,9 @@
 </p>
 <br>循环
 <p align="left">
-  <img src="./assets/for.png" alt="for.png" width="600"/>
+  <img src="./assets/for.png" alt="for.png" width="500"/>
 </p>
 <br>求和
 <p align="left">
-  <img src="./assets/sum.png" alt="sum.png" width="600"/>
+  <img src="./assets/sum.png" alt="sum.png" width="350"/>
 </p>
